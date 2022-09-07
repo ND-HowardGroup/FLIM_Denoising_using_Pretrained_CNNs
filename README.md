@@ -1,4 +1,4 @@
-# SPIE CNN FLIM Denoising
+# Frontiers FLIM Denoising
 This is the folder contains all the results used in the SPIE CNN based FLIM denoising paper.
 
 #For image denoising using ImageJ: 
@@ -8,7 +8,7 @@ https://github.com/ND-HowardGroup/Instant-Image-Denoising
 https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 
 
-## SPIE paper phasor images
+## Phasor images
 Noisy Input phasor: 3D zebrafish sample
 
 ![](Test_images/Phasor/imagePhasorHistogram.png)
@@ -17,7 +17,7 @@ Denoised Output Phasor: From Neural network:
 
 ![](Test_images/Phasor/imagePhasorHistogram_denoised.png)
 
-## SPIE paper image segmentation: K-means clustering
+## Image segmentation: K-means clustering
 Noisy segments: 2D Mouse Kidney shows the microtubules
 
 ![](Test_images/Segments/Noisy_Segments.png)
@@ -39,4 +39,4 @@ Denoised segments:
 
 ## **License**
 
-Licensed under the [GPL](https://github.com/ND-HowardGroup/SPIE-CNN-FLIM-Denoising/blob/main/LICENSE)
+Licensed under the [GPL](https://github.com/ND-HowardGroup/Frontiers-FLIM-Denoising/blob/main/LICENSE)
