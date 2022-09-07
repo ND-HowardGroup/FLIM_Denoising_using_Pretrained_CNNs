@@ -1,1 +1,1 @@
-# SPIE_JBO_FLIM_Denoising
+# Frontiers_FLIM_Denoising
