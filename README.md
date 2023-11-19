@@ -16,20 +16,20 @@ https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 ## Phasor images
 Noisy Input phasor: 3D zebrafish sample
 
-![](Test_images/Phasor/imagePhasorHistogram.png)
+![](Zebrafish_data/Phasor_clustering/Phasors_raw_denoised/imagePhasorHistogram.png)
 
 Denoised Output Phasor: From Neural network: 
 
-![](Test_images/Phasor/imagePhasorHistogram_denoised.png)
+![](Zebrafish_data/Phasor_clustering/Phasors_raw_denoised/imagePhasorHistogram_denoised.png)
 
 ## Image segmentation: K-means clustering
 Noisy segments: 2D Mouse Kidney shows the microtubules
 
-![](Test_images/Segments/Noisy_Segments.png)
+![](Zebrafish_data/Phasor_clustering/Segments_raw_denoised/Noisy_Segments.png)
 
 Denoised segments:
 
-![](Test_images/Segments/Denosied_Segments.png)
+![](Zebrafish_data/Phasor_clustering/Segments_raw_denoised/Denosied_Segments.png)
 
 
 # Results shown in the Journal paper
