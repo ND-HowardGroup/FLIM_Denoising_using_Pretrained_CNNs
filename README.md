@@ -4,8 +4,10 @@ This is the folder contains all the results used in the pre-trained CNN for FLIM
 # Installation of the plugins
 [Simple Instructions](https://github.com/ND-HowardGroup/Instant-Image-Denoising/blob/master/Plugins/Instructions_to_Install_Image_denoising_plugins.docx)
 
-#For image denoising using ImageJ: 
+#For fluoresence microscopy image denoising using ImageJ plugin: 
 https://github.com/ND-HowardGroup/Instant-Image-Denoising
+
+We use these (DnCNN and Noise2Noise) CNN models as pre-trained CNNs for denoising FLIM lifetime and phasor denoising. 
 
 #For K-means segmentation: 
 https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
