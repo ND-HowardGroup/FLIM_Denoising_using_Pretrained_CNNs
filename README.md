@@ -1,5 +1,8 @@
 # Frontiers FLIM Denoising
-This is the folder contains all the results used in the SPIE CNN based FLIM denoising paper.
+This is the folder contains all the results used in the pre-trained CNN for FLIM lifetime denoising and phasor denoising.
+
+# Installation of the plugins
+[Simple Instructions](https://github.com/ND-HowardGroup/Instant-Image-Denoising/blob/master/Plugins/Instructions_to_Install_Image_denoising_plugins.docx)
 
 #For image denoising using ImageJ: 
 https://github.com/ND-HowardGroup/Instant-Image-Denoising
