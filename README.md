@@ -27,7 +27,7 @@ Noisy segments: 2D Mouse Kidney shows the microtubules
 
 ![](Zebrafish_data/Phasor_clustering/Segments_raw_denoised/Noisy_Segments.png)
 
-Denoised segments:
+Denoised segments: 2D Mouse Kidney shows the microtubules show the upstream and downstream microtubules.
 
 ![](Zebrafish_data/Phasor_clustering/Segments_raw_denoised/Denosied_Segments.png)
 
