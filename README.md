@@ -53,7 +53,7 @@ Input Noisy lifetime histogram      | Median  filtering  | DnCNN denoising      
 
 Input Noisy HSV lifetime       | Median HSV filtering  | DnCNN HSV denoising       | Target HSV lifetime       |	
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-<img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/lifetime_images_plant_mid_layer/raw_data2_imageOverlapClusterHSV.png" width="250" height="250" />   |  <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/lifetime_images_plant_mid_layer/median_data2_imageOverlapClusterHSV.png" width="250" height="250" />| <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/lifetime_images_plant_mid_layer/dncnn_data2_imageOverlapClusterHSV.png" width="250" height="250" /> | <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/lifetime_images_plant_mid_layer/gt_data2_imageOverlapClusterHSV.png" width="250" height="250" />|
+<img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_mid_layer/raw_data2_imageOverlapClusterHSV.png" width="250" height="250" />   |  <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_mid_layer/median_data2_imageOverlapClusterHSV.png" width="250" height="250" />| <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_mid_layer/dncnn_data2_imageOverlapClusterHSV.png" width="250" height="250" /> | <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_mid_layer/gt_data2_imageOverlapClusterHSV.png" width="250" height="250" />|
 
 
 
