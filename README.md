@@ -49,7 +49,7 @@ Input Noisy lifetime       | Median filtering          | DnCNN denoising Plugin 
 
 Input Noisy lifetime histogram      | Median  filtering  | DnCNN denoising       | Target HSV lifetime       |	
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-<img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_raw.png" width="250" height="250" />   |  <img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_median.png" width="250" height="250" />| <img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_dncnn.png" width="250" height="250" /> | <img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_averaged.png" width="250" height="250" />|
+<img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_raw.png" width="250" height="150" />   |  <img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_median.png" width="250" height="150" />| <img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_dncnn.png" width="250" height="150" /> | <img src="In_Vivo_imaging_samples/Plant_imaging_data/Extracted_Lifetime/lifetime_images_plant_mid_layer/cropped_image_hist_data2_averaged.png" width="250" height="150" />|
 
 
 
