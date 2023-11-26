@@ -12,6 +12,7 @@ We use these (DnCNN and Noise2Noise) CNN models as pre-trained CNNs for denoisin
 #For K-means segmentation: 
 https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 
+# In Vivo imaging
 
 ## Phasor images
 Noisy Input phasor: 3D zebrafish sample
@@ -75,6 +76,7 @@ Input Noisy HSV lifetime       | Median HSV filtering  | DnCNN HSV denoising    
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_top_layer/raw_data1_imageOverlapClusterHSV.png" width="150" height="150" />   |  <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_top_layer/median_data1_imageOverlapClusterHSV.png" width="150" height="150" />| <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_top_layer/dncnn_data1_imageOverlapClusterHSV.png" width="150" height="150" /> | <img src="In_Vivo_imaging_samples/Plant_imaging_data/Phasor_overlap_segments/plant_images_top_layer/averaged_data1_imageOverlapClusterHSV.png" width="150" height="150" />|
 
+# Ex Vivo imaging
 
 **Details: BPAE sample1**
 Input: 2D single channel image from BPAE images: (from our custom made InstantFLIM FD-MPM-FLIM system at excitaiton: 800nm and sample: BPAE ex vivo imaging)
